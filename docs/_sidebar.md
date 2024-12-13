@@ -1,0 +1,7 @@
+- 1: Primeros Pasos
+  - [1.1 Introducción](README.md)
+  - [1.2 Preguntas Frecuentes](faq.md)
+- 2: Tablero de Recepción
+  - [2.1 Presentación](editor/presentacion_recepcion.md)
+  - [2.2 Fuentes de Datos](editor/data_sources_rec.md)
+  - [2.3 Fórmulas y Medidas DAX](editor/dax.md)
