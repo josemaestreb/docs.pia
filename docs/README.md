@@ -12,7 +12,7 @@ PIA ofrece un conjunto de tableros que permite a los usuarios:
 
 **¡Descubre todas las posibilidades y optimiza tu análisis con PIA!**
 
-<p class="tip"><strong>Nota Importante:</strong> Esta documentación se actualizará de manera continua para reflejar las mejoras y cambios en los tableros. Para estar al tanto de las novedades, te invitamos a visitar con regularidad la sección <a href="http://localhost:3000/#/whatsnew" ><strong>¿Qué hay de nuevo?</strong></a>, donde podrás consultar los últimos cambios y actualizaciones. </p>  
+**Nota Importante:** Esta documentación se actualizará de manera continua para reflejar las mejoras y cambios en los tableros. Para estar al tanto de las novedades, te invitamos a visitar con regularidad la sección [¿Qué hay de nuevo?](whatsnew.md), donde podrás consultar los últimos cambios y actualizaciones.
 
 ---
 
@@ -31,7 +31,7 @@ Para cualquier consulta, contáctanos:
 
 ---
 
-<img class="logismart" src="https://josemaestreb.github.io/docs.bil_v2/_asset/logo_logismart.png" alt="Logo Logismart" />
+<img class="logismart" src="https://josemaestreb.github.io/docs.pia/_asset/logo_logismart.png" alt="Logo Logismart" />
 
 Desarrollado por LogiSmart  
 Derechos Reservados Pharex © 2024

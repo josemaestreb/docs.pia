@@ -48,7 +48,7 @@ Esto asegura la calidad y precisión de la información presentada en el tablero
 
 A continuación te presentamos cómo están relacionadas las diferentes consultas del modelo:
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/013-modelo_datos.png" alt="Modelo de Datos - PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/013-modelo_datos.png" alt="Modelo de Datos - PIA Recepción" loading="lazy"/>  
 
 ---
 

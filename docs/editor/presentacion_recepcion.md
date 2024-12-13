@@ -5,7 +5,7 @@ Para acceder al tablero, utiliza el siguiente enlace: <a href="https://josemaest
 
 ¡Enhorabuena! Si accediste correctamente, deberías ver una pantalla similar a la siguiente:  
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/001-presentacion.png" alt="Pantalla inicial de PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/001-presentacion.png" alt="Pantalla inicial de PIA Recepción" loading="lazy"/>  
 
 En esta vista inicial, notarás que el tablero está compuesto por cuatro secciones clave:
 
@@ -24,7 +24,7 @@ A continuación, analizaremos cada una de estas secciones para que puedas entend
 ### 1. Grado
 Ubicada en la parte superior, esta sección permite alternar entre diferentes niveles de visualización de datos, como:  
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/009-grado.png" alt="Grado Fechas de PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/009-grado.png" alt="Grado Fechas de PIA Recepción" loading="lazy"/>  
 
 - **Mensual:** Visualiza valores mes a mes (enero, febrero, etc.).
 - **Diario Semana:** Muestra datos agrupados por día de la semana (lunes a domingo).
@@ -36,7 +36,7 @@ Ubicada en la parte superior, esta sección permite alternar entre diferentes ni
 ### 2. Resumen
 Esta sección proporciona un panorama general de la operación de recepción desde el inicio del registro de datos hasta la fecha actual. Incluye:
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/002-resumen.png" alt="Resumen de PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/002-resumen.png" alt="Resumen de PIA Recepción" loading="lazy"/>  
 
 - **Ingresos Unidades:** Total acumulado de unidades recepcionadas.
 - **Ingresos Cajas:** Total acumulado de cajas recepcionadas.
@@ -48,7 +48,7 @@ Esta sección proporciona un panorama general de la operación de recepción des
 ### 3. Cuadro de Búsqueda
 Permite filtrar información escribiendo el nombre del producto o artículo en el recuadro de la derecha.
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/008-producto.png" alt="Cuadro de Búsqueda de PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/008-producto.png" alt="Cuadro de Búsqueda de PIA Recepción" loading="lazy"/>  
 
 ---
 
@@ -60,7 +60,7 @@ Por defecto, los ingresos por producto y el indicador de "Ingresos" se muestran 
 
 Solo necesitas ajustar los **filtros del tablero**, y más adelante te explicaremos cómo hacerlo paso a paso.
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/003-tooltip.gif" alt="Tooltip PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/003-tooltip.gif" alt="Tooltip PIA Recepción" loading="lazy"/>  
 
 <p class="tip">Al posicionarte sobre indicadores o gráficos, se activa la funcionalidad <strong>Tooltip</strong>, que despliega información adicional no visible a simple vista. Ilustración arriba.</p>
 
@@ -71,14 +71,14 @@ Solo necesitas ajustar los **filtros del tablero**, y más adelante te explicare
 #### A) Ingresos
 Este indicador muestra la cantidad de unidades, cajas o líneas en el tiempo, permitiendo analizar tendencias y patrones estacionales.
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/004-ingresos.png" alt="Ingresos PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/004-ingresos.png" alt="Ingresos PIA Recepción" loading="lazy"/>  
 
 ---
 
 #### B) On Time: Recepción e Inspección
 Estos KPIs miden el cumplimiento en los tiempos establecidos para recepción e inspección de mercancías, en términos porcentuales.  
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/005-ontime.png" alt="On Time PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/005-ontime.png" alt="On Time PIA Recepción" loading="lazy"/>  
 
 - **Recepción:** Calcula los días hábiles entre la fecha de recepción y el envío del reporte logístico. Se considera cumplido si el tiempo es de 2 días hábiles o menos.
 
@@ -93,14 +93,14 @@ Estos indicadores permiten analizar:
 
 - Cumplimiento en los tiempos establecidos para recepción a lo largo del tiempo, desglosado por meses, días e histórico (a la derecha en la imagen).
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/006-dias_rec.png" alt="Promedio Días PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/006-dias_rec.png" alt="Promedio Días PIA Recepción" loading="lazy"/>  
 
 ---
 
 #### D) Cumplimiento Inspección
 Este indicador evalúa el cumplimiento en los tiempos establecidos para la inspección, analizado a lo largo del tiempo, con detalles por meses, días e histórico.
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/007-cumplimiento_insp.png" alt="Inspección PIA Recepción" loading="lazy"/> 
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/007-cumplimiento_insp.png" alt="Inspección PIA Recepción" loading="lazy"/> 
 
 ---
 
@@ -114,7 +114,7 @@ Este indicador evalúa el cumplimiento en los tiempos establecidos para la inspe
 
 Para abrir el menú de filtros, simplemente haz clic en el botón indicado en la siguiente imagen:
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/011-abrir_filtro.png" alt="Abrir Filtros PIA Recepción" loading="lazy"/> 
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/011-abrir_filtro.png" alt="Abrir Filtros PIA Recepción" loading="lazy"/> 
 
 Este menú te permite personalizar la visualización de los datos. Como ejemplo, te mostramos cómo:
 
@@ -122,7 +122,7 @@ Este menú te permite personalizar la visualización de los datos. Como ejemplo,
 **2-** Cambiar la unidad de medida a "Líneas".  
 **3-** Restablecer todos los filtros y cerrar el menú.  
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/010-filtros.gif" alt="Filtros PIA Recepción" loading="lazy"/> 
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/010-filtros.gif" alt="Filtros PIA Recepción" loading="lazy"/> 
 
 <p class="tip">En este menú de filtros, puedes cambiar cómo se muestran los ingresos o recepciones eligiendo entre Cajas, Líneas o Unidades como unidad de medida. Solo necesitas ajustar la opción en <strong>"Tipo Medida"</strong>.</p>
 
@@ -132,7 +132,7 @@ Este menú te permite personalizar la visualización de los datos. Como ejemplo,
 
 Si necesitas recordar rápidamente el significado de un indicador, consultar información específica o reforzar lo aprendido, puedes hacerlo fácilmente desde el menú de filtros. Solo sigue estos pasos para acceder a información detallada directamente desde el tablero:
 
-<img src="http://129.146.151.214:8080/api/BI/_asset/01_Recepcion/012-info_adicional.gif" alt="Filtros PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/012-info_adicional.gif" alt="Filtros PIA Recepción" loading="lazy"/>  
 
 ---
 
