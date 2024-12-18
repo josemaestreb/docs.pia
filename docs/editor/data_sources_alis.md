@@ -20,7 +20,7 @@ El tablero de recepciones se alimenta de datos extraídos de la base de datos de
 - Durante la actualización, los datos se transforman y preparan para su visualización en el tablero.  
 
 La API utilizada para este proceso es:
-**http://129.146.161.23/api/BI/reportes_pia.php?recepcion**
+**http://129.146.161.23/api/BI/pia_alistamiento.php**
 
 ---
 
@@ -48,10 +48,10 @@ Esto asegura la calidad y precisión de la información presentada en el tablero
 
 A continuación te presentamos cómo están relacionadas las diferentes consultas del modelo:
 
-<img src=" https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/013-modelo_datos.png" alt="Modelo de Datos - PIA Recepción" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/02_alistamiento/11-modelo-semantico.png" alt="Modelo de Datos - PIA Alistamiento" loading="lazy"/>  
 
 ---
 
 ## 🎉 ¡Módulo Completado!
 
-¡Felicidades! Ahora comprendes cómo el tablero de recepciones obtiene, transforma y organiza los datos desde su origen hasta la visualización final. En los siguientes módulos, exploraremos las medidas DAX y fórmulas para maximizar tus conocimientos.
+¡Felicidades! Ahora comprendes cómo el tablero de alistamiento obtiene, transforma y organiza los datos desde su origen hasta la visualización final. En los siguientes módulos, exploraremos las medidas DAX para maximizar tus conocimientos.

@@ -102,6 +102,8 @@ Este indicador evalúa el cumplimiento en los tiempos establecidos para la inspe
 
 <img src="https://josemaestreb.github.io/docs.pia/_asset/01_Recepcion/007-cumplimiento_insp.png" alt="Inspección PIA Recepción" loading="lazy"/> 
 
+<p class="tip">Los últimos tres indicadores (B, C y D) están actualmente en <strong>stand-by</strong>, ya que su funcionamiento depende de la fecha de envío del reporte logístico y del parte de calidad, los cuales se generan automáticamente a través de los correos configurados por PHAREX. Por este motivo, en su estado actual, los indicadores emplean datos de prueba y no reflejan información real.</p>
+
 ---
 
 ## Otras Funcionalidades

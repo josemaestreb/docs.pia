@@ -4,4 +4,9 @@
 - 2: Tablero de Recepción
   - [2.1 Presentación](editor/presentacion_recepcion.md)
   - [2.2 Fuentes de Datos](editor/data_sources_rec.md)
-  - [2.3 Fórmulas y Medidas DAX](editor/dax.md)
+  - [2.3 Fórmulas y Medidas DAX](editor/dax_rec.md)
+- 3: Tablero de Alistamiento
+  - [3.1 Presentación](editor/presentacion_alistamiento.md)
+  - [3.2 Cálculos y Fórmulas](editor/calculates_alis.md)
+  - [3.3 Fuentes de Datos](editor/data_sources_alis.md)
+  - [3.4 Medidas DAX](editor/dax_alis.md)
