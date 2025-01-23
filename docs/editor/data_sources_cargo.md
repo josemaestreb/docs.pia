@@ -50,7 +50,7 @@ Esto asegura la calidad y precisión de la información presentada en el tablero
 
 A continuación te presentamos cómo están relacionadas las diferentes consultas del modelo:
 
-<img src="http://129.146.161.23/api/BI/_asset/03_transporte/11-modelo-semantico.png" alt="Modelo de Datos - PIA Transporte" loading="lazy"/>  
+<img src="https://josemaestreb.github.io/docs.pia/_asset/03_transporte/11-modelo-semantico.png" alt="Modelo de Datos - PIA Transporte" loading="lazy"/>  
 
 ---
 

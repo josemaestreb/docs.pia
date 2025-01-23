@@ -1,7 +1,7 @@
 # 🎯 Navegando Por El Tablero
 
 ---
-Para acceder al tablero, utiliza el siguiente enlace: <a href="https://josemaestreb.github.io/01_Pharex_Workspace/Tablero%20PIA%20-%20Recepciones.html" target="_blank"><strong>Acceso aquí</strong></a>
+Para acceder al tablero, utiliza el siguiente enlace: <a href="http://129.146.161.23/portal_pharex/operative/Tablero-PIA-Recepciones.html" target="_blank"><strong>Acceso aquí</strong></a>
 
 ¡Enhorabuena! Si accediste correctamente, deberías ver una pantalla similar a la siguiente:  
 

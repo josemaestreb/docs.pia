@@ -8,7 +8,7 @@
 
 ## 🗂️ Origen de los Datos
 
-El tablero de recepciones se alimenta de datos extraídos de la base de datos de IP6 mediante una tarea programada en el servidor. Este proceso sigue los siguientes pasos:
+El tablero de alistamiento se alimenta de datos extraídos de la base de datos de IP6 mediante una tarea programada en el servidor. Este proceso sigue los siguientes pasos:
 
 1- Extracción de Datos: La tarea realiza solicitudes HTTP a una API específica para obtener la información requerida.  
 
