@@ -10,3 +10,8 @@
   - [3.2 Cálculos y Fórmulas](editor/calculates_alis.md)
   - [3.3 Fuentes de Datos](editor/data_sources_alis.md)
   - [3.4 Medidas DAX](editor/dax_alis.md)
+- 4: Tablero de Transporte
+  - [4.1 Presentación](editor/presentacion_cargo.md)
+  - [4.2 Cálculos y Fórmulas](editor/calculates_cargo.md)
+  - [4.3 Fuentes de Datos](editor/data_sources_cargo.md)
+  - [4.4 Medidas DAX](editor/dax_cargo.md)
